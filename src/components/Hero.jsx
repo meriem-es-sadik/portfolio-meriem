@@ -13,7 +13,7 @@ export default function Hero() {
           <a href="#contact" className="btn">Hire Me</a>
         </div>
         <div className="hero-image">
-          <img src="/img/meriem.png" alt="Meriem ES-SADIK" />
+          <img src="img/meriem.png" alt="Meriem ES-SADIK" />
         </div>
       </div>
     </section>

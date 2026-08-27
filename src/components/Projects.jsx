@@ -3,17 +3,17 @@ const projectsData = [
     title: 'Personal Portfolio',
     description:
       'A modern, responsive portfolio website built with HTML and CSS, featuring a glassmorphism design and smooth animations.',
-    image: "/img/Capture d'écran 2026-08-26 163903.png",
+    image: "img/Capture d'écran 2026-08-26 163903.png",
     alt: 'Personal Portfolio',
     tags: ['HTML', 'CSS', 'Responsive Design', 'React'],
     demo: '#',
-    code: 'https://github.com/meriem-es-sadik/portfolio',
+    code: 'https://github.com/meriem-es-sadik/portfolio-meriem',
   },
   {
     title: 'Inaya E-Commerce',
     description:
       'A modern e-commerce website with a clean design, product listings, and responsive layout.',
-    image: "/img/Capture d'écran 2026-08-26 165715.png",
+    image: "img/Capture d'écran 2026-08-26 165715.png",
     alt: 'Inaya E-Commerce',
     tags: ['HTML', 'CSS', 'E-Commerce'],
     demo: 'https://inaya-e-commerce-website.vercel.app',
